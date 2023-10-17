@@ -16,7 +16,7 @@
 Файл [Deathlog.zip](/Deathlog.zip) актуален для версии аддона `0.1.11b` (17 октября 2023 года).
 
 ## EN
-Adding the sound of death from Dread Hunger to the Deathlog addon.
+Adding a special sound of death from the paws of Arugal's son.
 
 ### Quick installation
 
